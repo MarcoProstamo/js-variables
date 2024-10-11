@@ -8,6 +8,11 @@ console.log(nome); // Sostituito name con nome in quanto name risultava deprecat
 // Crea tre variabili chiamate number, text e bool e assegna rispettivamente
 // un numero, una stringa e un valore booleano.
 // Stampa tutti i valori nella console.
+let number, text, bool;
+number = 0;
+text = "-";
+bool = false;
+console.log(number, text, bool);
 
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente
